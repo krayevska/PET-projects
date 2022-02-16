@@ -56,7 +56,7 @@
 
 **FreeCodeCamp Intermediate-Algorithm-Scripting:** [solutions on GitHub](https://github.com/krayevska/FreeCodeCamp-projects/tree/master/Intermediate-Algorithm-Scripting)<br><br>
 
-**projects for Programming Foundations with JavaScript, HTML and CSS MOOC by Duke university :** 
+**Projects for Programming Foundations with JavaScript, HTML and CSS MOOC by Duke university :** 
 
 **Green Screen Web Page**
 [on GitHub](https://github.com/krayevska/Coursera-JavaScript-HTML-CSS/tree/e1b669445e66affb604577be7db5a8a8540cbd86/Green%20Screen%20Web%20Page), 
