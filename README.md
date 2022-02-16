@@ -5,7 +5,7 @@
 
 **FreeCodeCamp Front End Libraries certification projects:** <br>
 <br>
-**Drum Machine (React)**: 
+**Drum Machine (React):**
 [on GitHub](https://github.com/krayevska/FreeCodeCamp-projects/tree/master/Front-End-Libraries-Projects/Drum-Machine-React), 
 [on Codepen](https://codepen.io/krayevska/full/PowpoEg)<br>
 
@@ -50,7 +50,11 @@
 
 **Technical Documentation Page:** 
 [on GitHub](https://github.com/krayevska/FreeCodeCamp-projects/tree/master/Responsive%20Web%20Design%20Projects/Technical%20Documentation%20Page), 
-[on Codepen](https://codepen.io/krayevska/full/pqzyBG)<br><br><br>
+[on Codepen](https://codepen.io/krayevska/full/pqzyBG)<br><br>
+
+**FreeCodeCamp JavaScript-Algorithms-and-Data-Structures-Projects:** [solutions on GitHub](https://github.com/krayevska/FreeCodeCamp-projects/tree/master/JavaScript-Algorithms-and-Data-Structures-Projects)<br>
+
+**FreeCodeCamp Intermediate-Algorithm-Scripting:** [solutions on GitHub](https://github.com/krayevska/FreeCodeCamp-projects/tree/master/Intermediate-Algorithm-Scripting)<br><br>
 
 **projects for Programming Foundations with JavaScript, HTML and CSS MOOC by Duke university :** 
 
