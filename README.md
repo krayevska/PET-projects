@@ -1,6 +1,6 @@
 ### Links to my PET projects: <br><br>
 
-**Anguar App** [on GitHub](https://github.com/krayevska/GreenCity-PET)<br>
+**Angular App** [on GitHub](https://github.com/krayevska/GreenCity-PET)<br>
 
 **Tic-Tac-Toe (React)** [on GitHub](https://github.com/krayevska/React/tree/main/Tic-Tac-Toe), [on Codepen](https://codepen.io/krayevska/pen/dyZYvVr)<br><br>
 
