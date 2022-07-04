@@ -1,4 +1,5 @@
 ### Links to my PET projects: <br><br>
+**The Cat App (Angular)** [on GitHub](https://github.com/krayevska/the-cat-app)
 
 **Angular App** [on GitHub](https://github.com/krayevska/GreenCity-PET)<br>
 
